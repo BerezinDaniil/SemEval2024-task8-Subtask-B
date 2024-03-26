@@ -8,6 +8,8 @@ idf# SemEval2024-task8-Subtask-B.
 - `CatBoost` (0.96 f1-score)
 - `BERT` (0.94 f1-score)
 - `mBERT` (0.94 f1-score)
+  ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/9203d620-d245-4c9e-a14a-9a2a193ad528)
+
 - `xlm-roberta` (0.90 f1-score)
 
 

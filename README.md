@@ -63,5 +63,5 @@
 
 `PCA` и `tf-idf`           |  Распределение длинн текстов в словах и в символах
 :-------------------------:|:-------------------------:
-![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/dbc4b118-95df-4a50-b1f2-3e3cc418177e) | <img src="https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/da753871-3627-4bf8-8cc0-1350a8cbb533" width="300" /> <img src="https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/fbd60e0f-e99e-40aa-81a4-7d20d6811791" width="300" />
+![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/dbc4b118-95df-4a50-b1f2-3e3cc418177e) | <img src="https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/fbd60e0f-e99e-40aa-81a4-7d20d6811791" width="300" /> <img src="https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/da753871-3627-4bf8-8cc0-1350a8cbb533" width="300" />
 

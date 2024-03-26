@@ -1,4 +1,4 @@
-idf# SemEval2024-task8-Subtask-B.
+# SemEval2024-task8-Subtask-B.
 
 ## Решение задачи классификации: "кто сгенерировал текст"
 
@@ -6,7 +6,7 @@ idf# SemEval2024-task8-Subtask-B.
 
 В качестве основных моделей использовались:
 - `CatBoost` (0.96 f1-score)
-
+  <img src="https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/ddb074d8-96bd-4e9e-8d79-be37d5437c3e" width="200" />
   ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/ddb074d8-96bd-4e9e-8d79-be37d5437c3e)
 
 - `BERT` (0.94 f1-score)

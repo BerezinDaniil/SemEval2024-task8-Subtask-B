@@ -27,9 +27,10 @@
 
    ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/467a2fe8-bec2-4250-bf10-9f5ab431e65f)
 
-`PCA` и `tf-idf`           |  Hаспределение длинн текстов в словах
+`PCA` и `tf-idf`           |  Распределение длинн текстов в словах и в символах
 :-------------------------:|:-------------------------:
-![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/95fb5fb5-6c3a-4d27-89ee-64e7653fd0d3)  |  ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/230738e2-6b76-47d2-80d5-2e17c79afbf2)
+![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/95fb5fb5-6c3a-4d27-89ee-64e7653fd0d3)  |  ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/230738e2-6b76-47d2-80d5-2e17c79afbf2) ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/6d7b0e83-1d7d-4c29-9162-6c2c3aa61f20)
+
 
 
 
@@ -60,7 +61,8 @@
 
 Для разных языков выглядит не очень информатично, так как выделились несколько групп языков
 
-`PCA` и `tf-idf`           |  Hаспределение длинн текстов в словах
+`PCA` и `tf-idf`           |  Распределение длинн текстов в словах
 :-------------------------:|:-------------------------:
-![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/dbc4b118-95df-4a50-b1f2-3e3cc418177e) | ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/dbdc599e-9827-4d6a-9f4f-d90a8730ee98)
+![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/dbc4b118-95df-4a50-b1f2-3e3cc418177e) | ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/dbdc599e-9827-4d6a-9f4f-d90a8730ee98) ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/fbd60e0f-e99e-40aa-81a4-7d20d6811791)
+
 

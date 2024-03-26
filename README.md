@@ -6,11 +6,21 @@ idf# SemEval2024-task8-Subtask-B.
 
 В качестве основных моделей использовались:
 - `CatBoost` (0.96 f1-score)
+
+  ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/ddb074d8-96bd-4e9e-8d79-be37d5437c3e)
+
 - `BERT` (0.94 f1-score)
+
+  ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/40ab4086-2331-4859-b8bb-ae21d3e4e9fe)
+
+  
 - `mBERT` (0.94 f1-score)
+  
   ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/9203d620-d245-4c9e-a14a-9a2a193ad528)
 
 - `xlm-roberta` (0.90 f1-score)
+
+  ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/77d9c796-0921-444f-9836-6670846253b0)
 
 
 Так же был проведен `EDA` с применением `PCA` и `tf-idf` векторайзера 

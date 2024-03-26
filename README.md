@@ -29,7 +29,7 @@
 
 `PCA` и `tf-idf`           |  Распределение длинн текстов в словах и в символах
 :-------------------------:|:-------------------------:
-![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/95fb5fb5-6c3a-4d27-89ee-64e7653fd0d3)  |  ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/230738e2-6b76-47d2-80d5-2e17c79afbf2) ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/6d7b0e83-1d7d-4c29-9162-6c2c3aa61f20)
+![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/95fb5fb5-6c3a-4d27-89ee-64e7653fd0d3)  |  <img src="https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/230738e2-6b76-47d2-80d5-2e17c79afbf2" width="250" /> <img src="https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/6d7b0e83-1d7d-4c29-9162-6c2c3aa61f20" width="250" />
 
 
 

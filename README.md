@@ -16,6 +16,7 @@ idf# SemEval2024-task8-Subtask-B.
 ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/95fb5fb5-6c3a-4d27-89ee-64e7653fd0d3)
 
 Выделив топ 25 фич c помощью F-теста
+
 ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/769588fd-b851-49c4-93dc-e1d3f7a814b1)
 
 видим, что наличие ссылок имеет одну из самых больштих корелляций, что забавно, так как у ИИ проблемы с указанием ссылок

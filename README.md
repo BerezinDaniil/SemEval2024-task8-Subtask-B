@@ -24,12 +24,12 @@
 
 
 # Так же был проведен `EDA` 
-Визуализация `PCA` и `tf-idf` а так же  распределение длинн текстов в словах
 
 ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/467a2fe8-bec2-4250-bf10-9f5ab431e65f)
 
-
-![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/95fb5fb5-6c3a-4d27-89ee-64e7653fd0d3) ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/230738e2-6b76-47d2-80d5-2e17c79afbf2)
+`PCA` и `tf-idf`           |  Hаспределение длинн текстов в словах
+:-------------------------:|:-------------------------:
+![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/95fb5fb5-6c3a-4d27-89ee-64e7653fd0d3)!  |  ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/230738e2-6b76-47d2-80d5-2e17c79afbf2)
 
 
 

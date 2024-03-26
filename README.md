@@ -23,9 +23,15 @@
 
 
 
-# Так же был проведен `EDA` с применением `PCA` и `tf-idf` векторайзера 
+# Так же был проведен `EDA` 
+Визуализация `PCA` и `tf-idf` а так же  распределение длинн текстов в словах
 
-![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/95fb5fb5-6c3a-4d27-89ee-64e7653fd0d3)
+![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/467a2fe8-bec2-4250-bf10-9f5ab431e65f)
+
+
+![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/95fb5fb5-6c3a-4d27-89ee-64e7653fd0d3) ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/230738e2-6b76-47d2-80d5-2e17c79afbf2)
+
+
 
 
 ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/769588fd-b851-49c4-93dc-e1d3f7a814b1)
@@ -54,5 +60,5 @@
 
 Для разных языков выглядит не очень информатично, так как выделились несколько групп языков
 
-![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/dbc4b118-95df-4a50-b1f2-3e3cc418177e)
+![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/dbc4b118-95df-4a50-b1f2-3e3cc418177e) ![image](https://github.com/BerezinDaniil/SemEval2024-task8-Subtask-B/assets/78606208/dbdc599e-9827-4d6a-9f4f-d90a8730ee98)
 
